@@ -1,3 +1,4 @@
+--Based off Biz-teroids, Edited to be quicker and more efficient.
 local h_restock, h_max = true, true
 local h_type, w_type = 6, 6
 local h_set, w_set = false, false
