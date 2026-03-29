@@ -1,7 +1,7 @@
 # YimmenuV2-Luas
 ## An Archive of Yimmenu V2 Luas I find, Including...
 
-### (Cluckin' Bell Skip)[https://github.com/dinguscool4/Yimmenu-Luas/blob/main/skip%20cluckin%20bell.lua]
+### [Cluckin' Bell Skip](https://github.com/dinguscool4/Yimmenu-Luas/blob/main/skip%20cluckin%20bell.lua)
 skips cluckin bell setups (leaves last mission)
 
 
