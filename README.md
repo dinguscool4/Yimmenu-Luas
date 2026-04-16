@@ -9,3 +9,6 @@ sets stats to max so driving is maxed and shooting and allat
 
 ### [bizteroids](https://github.com/dinguscool4/Yimmenu-Luas/blob/main/bizteroids)
 sets alot of businesses to 100% stock
+
+### [nightclub safe loop](https://github.com/dinguscool4/Yimmenu-Luas/blob/main/nightclub%20save%20loop.lua)
+loops the nightclub to max money every 5 seconds
