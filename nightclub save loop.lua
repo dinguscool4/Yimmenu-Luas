@@ -10,6 +10,7 @@ script.run_in_callback(function()
 		if isonline then
 			stats.set_int("mpx_club_popularity", 1000)
 			stats.set_int("mpx_club_pay_time_left", -1)
+			tunables.set_int("nightclubincomeuptopop100", 250000)
 
 			notify.success("max nightclub safe", "done")
 		else
